@@ -11,8 +11,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "JMP"
-    url: /jmp/
+  - title: "Talks"
+    url: /talks/    
     
   - title: "Publications"
     url: /publications/
@@ -28,9 +28,6 @@ main:
   
   # - title: "CV"
   #   url: /cv-json/
-    
-  # - title: "Talks"
-  #  url: /talks/    
-    
+        
   # - title: "Guide"
   #  url: /markdown/
