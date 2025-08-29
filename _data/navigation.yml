@@ -9,9 +9,9 @@
 
 main:
   - title: "CV"
-    url: /cv/
+    url: /file/CV_DuongTa_July2025.pdf
 
-  - title: "Talks"
+  - title: "JMP"
     url: /talks/    
     
   - title: "Publications"
