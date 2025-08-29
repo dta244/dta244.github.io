@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "linkedin.com/in/duong-ta-73b259a7" # Username
+  linkedin         : "duong-ta-73b259a7" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -83,7 +83,7 @@ publication_category:
   books:
     'Books'
   Journal Articles:
-    '1) Bradford Mills, Dung Phuong Le, Duong Phuc Ta, Lien Nhu, Danh Thanh Vo, Ricardo Labarta. "Intensive and extensive rice farm adaptations in salinity-prone areas of the Mekong Delta". Climate and Development 15(2). pp:162-176'   
+    title: "Journal Article"  
   conferences:
     title: 'Conference Papers'
 
