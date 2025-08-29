@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Duong's Personal Webpage"
+title                    : "Duong's Homepage"
 title_separator          : "-"
 name                     : &name "Duong Ta"
 description              : &description "Duong' Personal Webpage"
@@ -22,8 +22,8 @@ repository               : "dta244/dta244.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Duong P. TA"
+  avatar           : "DUONG 5X5.png"
+  name             : "Duong Phuc TA"
   pronouns         : # example: "she/her"  
   bio              : "Doctoral Student at AAEC, VT"
   location         : "Blacksburg, VA"
