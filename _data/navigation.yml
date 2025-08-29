@@ -10,9 +10,6 @@
 main:
   - title: "CV"
     url: /files/CV_DuongTa_July2025.pdf
-
-  - title: "JMP"
-    url: /talks/    
     
   - title: "Publications"
     url: /publications/
@@ -23,12 +20,15 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-    
-  - title: "Blog"
-    url: /year-archive/
-  
+      
   # - title: "CV"
   #   url: /cv-json/
-        
+
+  #- title: "JMP"
+  # url: /talks/   
+
+  # - title: "Blog"
+  #  url: /year-archive/
+    
   # - title: "Guide"
   #  url: /markdown/
