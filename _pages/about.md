@@ -14,4 +14,3 @@ Research Interests
 - Machine Learning and Deep Learning
 - Experimental Design and Application
 - Environmental and Resource Economics
-- Green Development
