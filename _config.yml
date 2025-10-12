@@ -82,12 +82,14 @@ author:
 publication_category:
   JPM: 
     title: 'Job Market Paper'
-  books:
-    title: 'Books'
   Journal Articles:
     title: "Journal Article"  
-  conferences:
-    title: 'Conference Papers'
+  Working papers:
+    title: 'Working Papers'
+  #conferences:
+    #title: 'Conference Papers'
+  #books:
+    #title: 'Books'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
