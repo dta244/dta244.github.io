@@ -4,7 +4,7 @@ collection: publications
 category: JA
 permalink: /publication/article-1
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+date: 2028-01-01
 venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/article1-slide.pdf'
 paperurl: 'http://academicpages.github.io/files/article1.pdf'
