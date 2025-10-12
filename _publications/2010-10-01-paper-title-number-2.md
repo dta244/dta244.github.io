@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Job Market Paper"
 collection: publications
-category: manuscripts
+category: JMP
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+excerpt: 'This paper is about...'
+date: 2028-01-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
