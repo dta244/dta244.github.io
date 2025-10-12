@@ -82,9 +82,9 @@ author:
 publication_category:
   JMP: 
     title: 'Job Market Paper'
-  Journal Articles:
+  JA:
     title: "Journal Article"  
-  Working Papers:
+  WP:
     title: 'Working Papers'
   #conferences:
     #title: 'Conference Papers'
