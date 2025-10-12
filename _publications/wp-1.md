@@ -1,7 +1,7 @@
 ---
 title: "Working Paper 1"
 collection: publications
-category: conferences
+category: WP
 permalink: /publication/wp-1
 excerpt: 'This paper is about...'
 date: 2028-01-01
