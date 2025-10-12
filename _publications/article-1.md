@@ -1,7 +1,7 @@
 ---
 title: "Article title 1"
 collection: publications
-category: manuscripts
+category: JA
 permalink: /publication/article-1
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
