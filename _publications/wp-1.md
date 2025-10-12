@@ -2,7 +2,7 @@
 title: "Working Paper 1"
 collection: publications
 category: conferences
-permalink: /publication/working-paper-1
+permalink: /publication/wp-1
 excerpt: 'This paper is about...'
 date: 2028-01-01
 venue: 'AAEC working paper'
