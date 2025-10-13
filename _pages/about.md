@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p style="text-align: justify;">
 I am currently a Graduate Research Assistant and Doctoral student in the Department of Agricultural and Applied Economics at Virginia Tech. My research focuses on analyzing primary and secondary data to identify key patterns and drivers, ultimately informing policy design and recommendations aimed at improving societal well-being. My recent work centers on environmental and sustainable land use economics. Methodologically, I employ econometric and microeconomic tools, and I am increasingly interested in integrating machine learning and deep learning techniques into my research design and analysis.
+</p>
 
 Research Interests
 ======
