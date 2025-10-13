@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ## Teaching Philosophy
-======
+
 I teach to expand students’ agency, helping them ask sharper questions, reason with evidence, and act ethically. In applied economics, that means fluency in models, causal thinking, and data so theory connects to messy reality. Students learn best by doing: wrestling with problems, explaining ideas to peers, getting timely feedback, and reflecting on mistakes. My goals are deep conceptual understanding, strong quantitative and communication skills, clear links to policy and practice, and a classroom culture of inclusion, high standards, and integrity.
 
 
