@@ -15,7 +15,7 @@ I teach to expand students’ agency, helping them ask sharper questions, reason
 
 ## Teaching Experiences
 ### Teaching Experience 1:
-======
+
 * Graduate Teaching Assistant
 * Course AAEC 5525 (Applied Microeconomics, Master's level)  
 * At the Department of Agricultural and Applied Economics, Virginia Tech
@@ -23,7 +23,7 @@ I teach to expand students’ agency, helping them ask sharper questions, reason
 
 
 ### Teaching Experience 2:
-======
+
 * Teaching
 * A 3-session course (no course code) on "Introduction to Stata for Economics Analysis"
 * At the Vietnam Institute of Economics
