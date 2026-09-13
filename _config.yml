@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Duong's Homepage"
+title                    : "Duong Phuc Ta"
 title_separator          : "-"
-name                     : &name "Duong Ta"
-description              : &description "Duong' Personal Webpage"
+name                     : &name "Duong Phuc Ta"
+description              : &description "Duong Phuc Ta is a PhD student in Agricultural and Applied Economics at Virginia Tech, researching climate adaptation, water, and land-use decisions using causal inference and spatial data."
 url                      : "https://dta244.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dta244/dta244.github.io"
@@ -37,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=CQYNoVUAAAAJ&hl=en" 
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0002-2355-9830"
+  orcid            : "https://orcid.org/0000-0002-2355-9830"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -80,16 +80,16 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  JMP: 
+  JMP:
     title: 'Job Market Paper'
-  JA:
-    title: "Journal Articles"  
   WP:
     title: 'Working Papers'
-  #conferences:
-    #title: 'Conference Papers'
-  #books:
-    #title: 'Books'
+  JA:
+    title: 'Journal Articles'
+  JAV:
+    title: 'Journal Articles in Vietnamese'
+  CONF:
+    title: 'Conference Presentations'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -143,7 +143,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
+og_image                 : "profile.jpg" # Social media default site image
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -221,16 +221,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -255,39 +246,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
       type: publications
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
       author_profile: true
       share: true
 

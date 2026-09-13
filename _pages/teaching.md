@@ -1,30 +1,35 @@
 ---
 layout: archive
-title: ""
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
-redirect_from:
-  - /teaching
 ---
 
 {% include base_path %}
+
 ## Teaching Philosophy
 
 I teach to expand students’ agency, helping them ask sharper questions, reason with evidence, and act ethically. In applied economics, that means fluency in models, causal thinking, and data so theory connects to messy reality. Students learn best by doing: wrestling with problems, explaining ideas to peers, getting timely feedback, and reflecting on mistakes. My goals are deep conceptual understanding, strong quantitative and communication skills, clear links to policy and practice, and a classroom culture of inclusion, high standards, and integrity.
 
 
-## Teaching Experiences
-### Teaching Experience 1:
+## Teaching Experience
 
-* Graduate Teaching Assistant
-* Course AAEC 5525 (Applied Microeconomics, Master's level)  
-* At the Department of Agricultural and Applied Economics, Virginia Tech
-* Duties include: Grading Assignments
+**Graduate Teaching Assistant, AAEC 5525: Applied Microeconomics (master's level)**
+Department of Agricultural and Applied Economics, Virginia Tech
+Assignment grading and student support.
 
+**Workshop Instructor, Introduction to Stata for Economic Analysis**
+Vietnam Institute of Economics
+Designed and delivered a three-session workshop for researchers, including lecture material and applied exercises.
 
-### Teaching Experience 2:
+## Courses I Am Prepared to Teach
 
-* Teaching
-* A 3-session course (no course code) on "Introduction to Stata for Economics Analysis"
-* At the Vietnam Institute of Economics
-* Duties include: preparing lectures, assignments
+I am prepared to teach undergraduate and master's courses in applied econometrics, environmental and
+natural resource economics, and agricultural and land-use policy. Drawing on research, mentoring, and
+applied workshop experience, I would use real policy datasets to connect economic theory with empirical
+evidence.
+
+* Applied Econometrics and Causal Inference
+* Environmental and Natural Resource Economics
+* Agricultural, Food, and Land-Use Policy
+* Data for Public Policy / Applied Economic Data Analysis

@@ -1,18 +1,21 @@
 ---
 permalink: /
-title: "Hello there, I'm Duong. Welcome to my personal website!"
+title: "Duong Phuc Ta"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<p style="text-align: justify;">
-I am currently a Graduate Research Assistant and Doctoral student in the Department of Agricultural and Applied Economics at Virginia Tech. My research focuses on analyzing primary and secondary data to identify key patterns and drivers, ultimately informing policy design and recommendations aimed at improving societal well-being. My recent work centers on environmental and sustainable land use economics. Methodologically, I employ econometric and microeconomic tools, and I am increasingly interested in integrating machine learning and deep learning techniques into my research design and analysis.
-</p>
+
+I am a doctoral student and Graduate Research Assistant in the Department of Agricultural and Applied Economics at Virginia Tech.
+
+I study how climate shocks, water scarcity, and policy incentives shape the decisions farmers and landowners make about what to plant, whether to adapt, and how land gets used. Recent work looks at saltwater intrusion and rice farming exits in the Mekong Delta, and at the economic feasibility of silvopasture and carbon sequestration in the southeastern United States. I work primarily with causal inference and spatial data, and I am building out machine learning methods where they help answer questions standard econometrics handles poorly.
+
+Before Virginia Tech I spent four years as a data analyst at the International Center for Tropical Agriculture (CIAT) Asia Hub, and over a decade as a researcher at the Vietnam Institute of Economics.
 
 Research Interests
 ======
-- Microeconometrics (Causal Inference)
-- Machine Learning and Deep Learning
-- Experimental Design and Application
-- Environmental and Resource Economics
+- Environmental and resource economics
+- Climate adaptation, water, and land use
+- Applied microeconometrics and causal inference
+- Machine learning for applied economic research

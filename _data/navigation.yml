@@ -3,32 +3,17 @@
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "CV"
-    url: /files/CV_DuongTa_Sep2025.pdf
-    
-  - title: "Publications"
-    url: /publications/
-  #  url: https://scholar.google.com/citations?user=CQYNoVUAAAAJ&hl=en
-    
+  - title: "Research"
+    url: /research/
+
   - title: "Teaching"
-    url: /teaching/    
-    
-  # - title: "Portfolio"
-  #  url: /portfolio/
-      
-  # - title: "CV"
-  #   url: /cv-json/
+    url: /teaching/
 
-  #- title: "JMP"
-  # url: /talks/   
+  - title: "CV"
+    url: /cv/
 
-  # - title: "Blog"
-  #  url: /year-archive/
-    
-  # - title: "Guide"
-  #  url: /markdown/
+  # Add once the flagship case study meets the portfolio standard:
+  # - title: "Projects"
+  #   url: /projects/
