@@ -11,6 +11,11 @@ redirect_from:
 
 [Download full CV (PDF)]({{ base_path }}/files/CV_DuongTa.pdf)
 
+<p style="font-size: 0.85em; color: var(--global-text-color-light);">
+For non-academic roles, a one-page
+<a href="{{ base_path }}/files/Resume_DuongTa.pdf">résumé</a> is also available.
+</p>
+
 Education
 ======
 * Ph.D. in Agricultural and Applied Economics, Virginia Tech, 2023 to present

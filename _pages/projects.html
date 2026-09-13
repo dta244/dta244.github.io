@@ -1,0 +1,73 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+<style>
+  .project-card {
+    border: 1px solid var(--global-border-color);
+    border-radius: 6px;
+    padding: 1.25em 1.5em;
+    margin-bottom: 1.25em;
+  }
+  .project-card h2 {
+    margin: 0;
+    font-size: 1.1em;
+    line-height: 1.35;
+  }
+  .project-card h2 a { text-decoration: none; }
+  .project-status {
+    display: inline-block;
+    font-size: 0.68em;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 0.2em 0.6em;
+    margin-top: 0.6em;
+    border: 1px solid var(--global-border-color);
+    border-radius: 3px;
+    color: var(--global-text-color-light);
+  }
+  .project-question {
+    border-left: 3px solid var(--global-link-color);
+    padding-left: 0.85em;
+    margin: 0.9em 0;
+    font-size: 0.95em;
+  }
+  .project-summary { font-size: 0.9em; margin: 0.9em 0 0; }
+  .project-meta {
+    font-size: 0.8em;
+    color: var(--global-text-color-light);
+    margin: 0.9em 0 0;
+  }
+  .project-links { font-size: 0.85em; margin: 0.8em 0 0; }
+  .project-links a { margin-right: 1.2em; white-space: nowrap; }
+  @media (max-width: 600px) { .project-card { padding: 1em; } }
+</style>
+
+<p>Applied work that turns research methods into something a decision-maker can use. Each project states
+the decision it informs, the data behind it, and what the analysis actually supports.</p>
+
+{% for post in site.projects reversed %}
+  <div class="project-card">
+    <h2><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h2>
+    {% if post.status %}<span class="project-status">{{ post.status }}</span>{% endif %}
+    {% if post.question %}<p class="project-question"><strong>Decision:</strong> {{ post.question }}</p>{% endif %}
+    {% if post.summary %}<p class="project-summary">{{ post.summary }}</p>{% endif %}
+    <p class="project-meta">
+      {% if post.role %}{{ post.role }}{% endif %}
+      {% if post.stack %} &middot; {{ post.stack }}{% endif %}
+      {% if post.date %} &middot; {{ post.date | date: "%Y" }}{% endif %}
+    </p>
+    {% if post.repourl or post.dashboardurl or post.paperurl %}
+      <p class="project-links">
+        {% if post.dashboardurl %}<a href="{{ post.dashboardurl }}">Dashboard</a>{% endif %}
+        {% if post.repourl %}<a href="{{ post.repourl }}">Code</a>{% endif %}
+        {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% endif %}
+      </p>
+    {% endif %}
+  </div>
+{% endfor %}
