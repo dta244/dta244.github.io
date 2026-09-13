@@ -28,4 +28,4 @@ Results speak to the size and timing of carbon payment needed to close the gap f
 They do not speak to adoption behaviour, credit market access, or heterogeneity across soil types, all of which
 would need separate work.
 
-*Coauthors: Bradford Mills, Kurt Stephenson, John Fike, Tom Stanley.*
+*Coauthors: Bradford Mills, Kurt Stephenson, John Fike.*

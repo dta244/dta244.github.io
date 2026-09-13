@@ -16,27 +16,25 @@ For non-academic roles, a one-page
 <a href="{{ base_path }}/files/Resume_DuongTa.pdf">résumé</a> is also available.
 </p>
 
+Fields
+======
+* **Primary:** Applied Econometrics, Agricultural Economics
+* **Secondary:** Environmental and Resource Economics
+
 Education
 ======
-* Ph.D. in Agricultural and Applied Economics, Virginia Tech, 2023 to present
+* Ph.D. in Agricultural and Applied Economics, Virginia Tech, 2023 to expected May 2028
 * M.Sc. in Business and Financial Economics, University of Greenwich, 2015
 * B.A. in Economics, National Economics University, Vietnam, 2008
 
-Experience
+Research and Work Experience
 ======
-* **Graduate Research Assistant and Graduate Teaching Assistant**, Virginia Tech, 2023 to present
+* **Graduate Research Assistant**, Virginia Tech, 2023 to present
   * Department of Agricultural and Applied Economics, Blacksburg, VA
-* **Data Analyst and Research Assistant**, International Center for Tropical Agriculture (CIAT), Asia Hub, 2018 to 2022
-  * Hanoi, Vietnam
+* **Research Assistant and Data Analyst**, International Center for Tropical Agriculture (CIAT), Asia Hub, 2018 to 2022
+  * Hanoi, Vietnam, held concurrently with the VIE research post
 * **Researcher**, Vietnam Institute of Economics, 2010 to 2023
   * Hanoi, Vietnam
-
-Skills
-======
-* **Programming:** Python, R, Stata, SQL, MATLAB, LaTeX
-* **Machine learning:** scikit-learn, TensorFlow, Keras
-* **Tools:** Git and GitHub, Google Earth Engine, Quarto, VS Code
-* **Methods:** Econometrics and causal inference, experimental and survey design, optimization, cost-benefit analysis, spatial and remote-sensing data, data visualization
 
 Research
 ======
@@ -44,7 +42,16 @@ Research
 
 Teaching
 ======
-See the [teaching page]({{ base_path }}/teaching/) for teaching philosophy and experience.
+Graduate Teaching Assistant, Virginia Tech, 2023 to present. See the
+[teaching page]({{ base_path }}/teaching/) for teaching philosophy and course readiness.
+
+Skills
+======
+* **Statistical and econometric software:** Stata, R, Python, MATLAB, SQL, LaTeX
+* **Geospatial and remote sensing:** Google Earth Engine
+* **Machine learning and data science:** scikit-learn, TensorFlow, Keras
+* **Reproducibility and collaboration:** Git, GitHub, Quarto, VS Code
+* **Research methods:** Econometrics, causal inference, microeconomic methods, cost-benefit analysis, machine learning, survey design, experimental design, data management, data visualization
 
 Certifications
 ======

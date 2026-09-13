@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral student and Graduate Research Assistant in the Department of Agricultural and Applied Economics at Virginia Tech.
+I am a Ph.D. candidate and Graduate Research Assistant in the Department of Agricultural and Applied Economics at Virginia Tech.
 
 I study how climate shocks, water scarcity, and policy incentives shape the decisions farmers and landowners make about what to plant, whether to adapt, and how land gets used. Recent work looks at saltwater intrusion and rice farming exits in the Mekong Delta, and at the economic feasibility of silvopasture and carbon sequestration in the southeastern United States. I work primarily with causal inference and spatial data, and I am building out machine learning methods where they help answer questions standard econometrics handles poorly.
 

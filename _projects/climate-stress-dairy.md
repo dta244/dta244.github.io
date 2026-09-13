@@ -25,5 +25,6 @@ rather than assumed.
 
 ## Status
 
-Analysis in progress. This page will carry the reproducible code repository, a data dictionary, validation
-results, and stated limitations once the work is complete.
+Analysis in progress, as the working paper *Estimating impacts of climate stress on US milk production: a
+panel data with debiased machine learning approach*. This page will carry the reproducible code repository,
+a data dictionary, validation results, and stated limitations once the work is complete.

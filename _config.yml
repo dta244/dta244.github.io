@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Duong Phuc Ta"
 title_separator          : "-"
 name                     : &name "Duong Phuc Ta"
-description              : &description "Duong Phuc Ta is a PhD student in Agricultural and Applied Economics at Virginia Tech, researching climate adaptation, water, and land-use decisions using causal inference and spatial data."
+description              : &description "Duong Phuc Ta is a Ph.D. candidate in Agricultural and Applied Economics at Virginia Tech, researching climate adaptation, water, and land-use decisions using causal inference and spatial data."
 url                      : "https://dta244.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dta244/dta244.github.io"
@@ -23,9 +23,9 @@ repository               : "dta244/dta244.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Duong Phuc TA"
+  name             : "Duong Phuc Ta"
   pronouns         : # example: "she/her"  
-  bio              : "Doctoral Student at AAEC, VT"
+  bio              : "Ph.D. Candidate, AAEC, Virginia Tech"
   location         : "Blacksburg, VA"
   employer         : "Virginia Tech"
   uri              : # URL
@@ -88,6 +88,7 @@ publication_category:
     title: 'Journal Articles'
   JAV:
     title: 'Journal Articles in Vietnamese'
+    hide_on_research: true # still listed on /cv/
   CONF:
     title: 'Conference Presentations'
 

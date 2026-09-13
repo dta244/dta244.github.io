@@ -16,6 +16,7 @@ and the economics of silvopasture and carbon sequestration in the southeastern U
 
 {% if site.publication_category %}
   {% for category in site.publication_category %}
+    {% if category[1].hide_on_research %}{% continue %}{% endif %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
