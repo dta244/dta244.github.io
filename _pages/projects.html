@@ -43,8 +43,9 @@ author_profile: true
     color: var(--global-text-color-light);
     margin: 0.9em 0 0;
   }
-  .project-links { font-size: 0.85em; margin: 0.8em 0 0; }
+  .project-links { margin: 1em 0 0; }
   .project-links a { margin-right: 1.2em; white-space: nowrap; }
+  .project-links a:not(.btn) { font-size: 0.85em; }
   @media (max-width: 600px) { .project-card { padding: 1em; } }
 </style>
 
@@ -64,7 +65,7 @@ the decision it informs, the data behind it, and what the analysis actually supp
     </p>
     {% if post.repourl or post.dashboardurl or post.paperurl %}
       <p class="project-links">
-        {% if post.dashboardurl %}<a href="{{ post.dashboardurl }}">Open the interactive dashboard</a>{% endif %}
+        {% if post.dashboardurl %}<a class="btn btn--info btn--large" href="{{ post.dashboardurl }}">Open the interactive dashboard</a>{% endif %}
         {% if post.repourl %}<a href="{{ post.repourl }}">Code</a>{% endif %}
         {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% endif %}
       </p>
