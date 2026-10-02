@@ -5,6 +5,7 @@ date: 2026-01-01
 status: "In progress"
 role: "Sole author"
 stack: "Python, double/debiased machine learning, panel data"
+dashboardurl: "/dashboards/dairy-heat-stress/"
 question: "How much production does heat stress cost U.S. dairy operations, and which herds absorb it worst?"
 summary: "Applies double/debiased machine learning to multi-year panel data to separate the causal effect of climate stress on milk output from the many confounders that move with weather, allowing flexible controls without hand-specifying functional form."
 ---

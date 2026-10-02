@@ -66,7 +66,9 @@ The three URL keys are optional and the links row is hidden when all are absent.
 project's own page: the decision, the approach, what the analysis does and does not support.
 
 Prefer static dashboards deployed in this repo over hosted apps on sleeping free tiers. A dead link reads
-worse than no link.
+worse than no link. Put each one at `dashboards/<project>/index.html` and set
+`dashboardurl: "/dashboards/<project>/"`; files under `dashboards/` are kept out of the sitemap. See
+`scripts/publish_dairy_dashboard.py` for copying a built dashboard in from its project repo.
 
 ## Local preview
 
