@@ -11,10 +11,7 @@ redirect_from:
 
 [Download full CV (PDF)]({{ base_path }}/files/CV_DuongTa.pdf)
 
-<p style="font-size: 0.85em; color: var(--global-text-color-light);">
-For non-academic roles, a one-page
-<a href="{{ base_path }}/files/Resume_DuongTa.pdf">résumé</a> is also available.
-</p>
+[Download résumé (PDF)]({{ base_path }}/files/Resume_DuongTa.pdf)
 
 Fields
 ======
@@ -27,14 +24,18 @@ Education
 * M.Sc. in Business and Financial Economics, University of Greenwich, 2015
 * B.A. in Economics, National Economics University, Vietnam, 2008
 
-Research and Work Experience
+Work Experience
 ======
 * **Graduate Research Assistant**, Virginia Tech, 2023 to present
   * Department of Agricultural and Applied Economics, Blacksburg, VA
 * **Research Assistant and Data Analyst**, International Center for Tropical Agriculture (CIAT), Asia Hub, 2018 to 2022
   * Hanoi, Vietnam, held concurrently with the VIE research post
+  * Contributed to salinity-intrusion impact assessment in the Mekong Delta (2019 to 2022) and cassava production and value-chain research in Vietnam (2019 to 2021)
+  * Developed questionnaires and CSPro survey programs, supervised data collection, cleaned and analyzed data, and contributed to co-authored research
 * **Researcher**, Vietnam Institute of Economics, 2010 to 2023
   * Hanoi, Vietnam
+  * Led projects on the dynamics of farm and non-farm employment in Vietnam's rural economy (2022) and agricultural structure under climate change in the Mekong Delta (2021), from proposal development through analysis and final reports
+  * Contributed to research on household economic functions, labour productivity, structural transformation, agricultural value chains, and farm-firm linkages
 
 Research
 ======
@@ -52,12 +53,7 @@ Skills
 * **Machine learning and data science:** scikit-learn, TensorFlow, Keras
 * **Reproducibility and collaboration:** Git, GitHub, Quarto, VS Code
 * **Research methods:** Econometrics, causal inference, microeconomic methods, cost-benefit analysis, machine learning, survey design, experimental design, data management, data visualization
-
-Certifications
-======
-* Advanced Learning Algorithms, Stanford University via Coursera, 2025
-* Unsupervised Learning, Recommenders, Reinforcement Learning, Stanford University via Coursera, 2025
-* Supervised Machine Learning: Regression and Classification, Stanford University via Coursera, 2025
+* **Additional training:** Machine Learning Specialization, Stanford University via Coursera (3 courses), 2025
 
 Professional Membership
 ======
