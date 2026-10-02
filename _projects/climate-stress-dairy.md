@@ -3,7 +3,7 @@ title: "Climate Stress and U.S. Dairy Production"
 collection: projects
 date: 2026-01-01
 status: "In progress"
-role: "Sole author"
+role: "Lead author"
 stack: "Python, double/debiased machine learning, panel data"
 dashboardurl: "/dashboards/dairy-heat-stress/"
 question: "How much production does heat stress cost U.S. dairy operations, and which herds absorb it worst?"

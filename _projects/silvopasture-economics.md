@@ -3,8 +3,8 @@ title: "Silvopasture Economics in the Southeastern U.S."
 collection: projects
 date: 2025-07-01
 status: "Manuscript under review"
-role: "Lead researcher"
-stack: "R, Stata, cost-benefit simulation"
+role: "Lead author"
+stack: "Python, cost-benefit simulation"
 question: "Should a southeastern landowner convert open pasture to silvopasture, and does carbon payment change the answer?"
 summary: "Pairs enterprise budget modelling with biophysical carbon accumulation data to estimate net present value of silvopasture conversion over a full rotation, with and without carbon revenue. Presented at the AAEA-WAEA Annual Meeting in Denver, July 2025."
 ---
