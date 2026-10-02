@@ -266,6 +266,11 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  # Standalone project dashboards: served as-is, kept out of the sitemap
+  - scope:
+      path: "dashboards"
+    values:
+      sitemap: false
 
 
 # Sass/SCSS
