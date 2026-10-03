@@ -3,8 +3,8 @@
 # Only used when a page sets an `author:` key in its front matter. The site
 # defaults to the `author:` block in _config.yml.
 
-Duong Phuc Ta:
-  name        : "Duong Phuc Ta"
+Duong Ta:
+  name        : "Duong Ta"
   email       : "duongta@vt.edu"
   bio         : "Ph.D. Candidate, AAEC, Virginia Tech"
   avatar      : "profile.jpg"

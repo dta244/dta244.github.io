@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Duong Phuc Ta"
+title: "Duong Ta"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,9 +13,9 @@ I study how climate shocks, water scarcity, and policy incentives shape the deci
 
 Before Virginia Tech I spent four years as a data analyst at the International Center for Tropical Agriculture (CIAT) Asia Hub, and over a decade as a researcher at the Vietnam Institute of Economics.
 
-Research Interests
+Research Areas
 ======
-- Environmental and resource economics
-- Climate adaptation, water, and land use
-- Applied microeconometrics and causal inference
-- Machine learning for applied economic research
+- Agricultural, environmental and resource economics
+- Climate adaptation, technology adoption, and land use change
+- Applied econometrics and causal inference
+- Causal and predictive machine learning 

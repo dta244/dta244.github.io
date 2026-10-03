@@ -1,6 +1,6 @@
 # dta244.github.io
 
-Personal academic website for Duong Phuc Ta, published at <https://dta244.github.io>.
+Personal academic website for Duong Ta, published at <https://dta244.github.io>.
 
 Built with Jekyll on the [Academic Pages](https://github.com/academicpages/academicpages.github.io)
 template and deployed by GitHub Pages from `master`.
@@ -34,7 +34,7 @@ permalink: /publication/2027-short-slug
 date: 2027-06-01
 venue: 'Working paper'
 paperurl: 'https://doi.org/...'
-citation: 'Ta, Duong Phuc. 2027. "Paper title." Working paper.'
+citation: 'Ta, Duong. 2027. "Paper title." Working paper.'
 ---
 ```
 
