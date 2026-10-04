@@ -44,9 +44,10 @@ between them.
 ## My role
 
 As a research assistant and data analyst at the International Center for Tropical Agriculture (CIAT) from
-2019 to 2022, I developed the questionnaires and CSPro survey programs, supervised data collection, managed
-and cleaned the survey data, and built econometric analysis pipelines in R and Stata that contributed to both
-papers.
+2019 to 2022, I built the questionnaire and CSPro data-entry application for the rice survey, which covered
+about 1,000 farm households. As field supervisor, I trained teams of about 12 enumerators and supervised data
+collection. I then managed and cleaned the survey data and built econometric analysis pipelines in R and Stata
+that contributed to both papers.
 
 ## Publications
 

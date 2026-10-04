@@ -20,7 +20,7 @@ Fields
 
 Education
 ======
-* Ph.D. in Agricultural and Applied Economics, Virginia Tech, 2023 to expected May 2028
+* Ph.D. in Agricultural and Applied Economics, Virginia Tech, 2023 to expected Summer 2027
 * M.Sc. in Business and Financial Economics, University of Greenwich, 2015
 * B.A. in Economics, National Economics University, Vietnam, 2008
 
@@ -31,7 +31,8 @@ Work Experience
 * **Research Assistant and Data Analyst**, International Center for Tropical Agriculture (CIAT), Asia Hub, 2018 to 2022
   * Hanoi, Vietnam, held concurrently with the VIE research post
   * Contributed to salinity-intrusion impact assessment in the Mekong Delta (2019 to 2022) and cassava production and value-chain research in Vietnam (2019 to 2021)
-  * Developed questionnaires and CSPro survey programs, supervised data collection, cleaned and analyzed data, and contributed to co-authored research
+  * Developed questionnaires and programmed CSPro data-entry applications for two household surveys (rice farming under salinity; cassava production), each covering about 1,000 farm households
+  * As field supervisor, led roughly three-day trainings for teams of about 12 enumerators, supervised data collection, cleaned and analyzed the data, and contributed to co-authored research
 * **Researcher**, Vietnam Institute of Economics, 2010 to 2023
   * Hanoi, Vietnam
   * Led projects on the dynamics of farm and non-farm employment in Vietnam's rural economy (2022) and agricultural structure under climate change in the Mekong Delta (2021), from proposal development through analysis and final reports
@@ -43,8 +44,11 @@ Research
 
 Teaching
 ======
-Graduate Teaching Assistant, Virginia Tech, 2023 to present. See the
-[teaching page]({{ base_path }}/teaching/) for teaching philosophy and course readiness.
+* **Graduate Teaching Assistant**, Virginia Tech, 2023 to present
+* **Field Supervisor and Enumerator Trainer**, International Center for Tropical Agriculture (CIAT), 2019 to 2022
+  * Led roughly three-day trainings for teams of about 12 enumerators on the questionnaire and CSPro data-entry application before each of two household surveys, then supervised fieldwork
+
+See the [teaching page]({{ base_path }}/teaching/) for teaching philosophy and course readiness.
 
 Skills
 ======

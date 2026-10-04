@@ -6,16 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I’m a Ph.D. candidate in Agricultural and Applied Economics at Virginia Tech. I study how environmental change and economic incentives shape agricultural production and land use. My work examines how producers respond to climate stress, resource constraints, and policy changes, including decisions to adjust production practices or adopt conservation measures. I am particularly interested in what these adjustments cost, who benefits, and how policy can support them.
 
-I am a Ph.D. candidate and Graduate Research Assistant in the Department of Agricultural and Applied Economics at Virginia Tech.
+Methodologically, I combine traditional applied econometrics and causal inference with benefit-cost modeling, with modern methods such as machine learning and remote sensing data. I aim to connect advanced empirical analysis to practical questions facing producers, landowners, and policymakers.
 
-I study how climate shocks, water scarcity, and policy incentives shape the decisions farmers and landowners make about what to plant, whether to adapt, and how land gets used. Recent work looks at saltwater intrusion and rice farming exits in the Mekong Delta, and at the economic feasibility of silvopasture and carbon sequestration in the southeastern United States. I work primarily with causal inference and spatial data, and I am building out machine learning methods where they help answer questions standard econometrics handles poorly.
+Before Virginia Tech, my earlier research at the Vietnam Institute of Economics and the International Center for Tropical Agriculture covered climate adaptation, rural livelihoods, agricultural value chains, and structural change. 
 
-Before Virginia Tech I spent four years as a data analyst at the International Center for Tropical Agriculture (CIAT) Asia Hub, and over a decade as a researcher at the Vietnam Institute of Economics.
+# Research Areas
 
-Research Areas
-======
 - Agricultural, environmental and resource economics
-- Climate adaptation, technology adoption, and land use change
+- Climate adaptation, climate mitigation, conservation incentives, technology adoption, ag land value land use change
 - Applied econometrics and causal inference
-- Causal and predictive machine learning 
+- Causal and predictive machine learning
+- Modeling and simulation

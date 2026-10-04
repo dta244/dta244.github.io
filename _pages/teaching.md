@@ -18,6 +18,10 @@ I designed and taught a three-session "Introduction to Stata" workshop for resea
 Department of Agricultural and Applied Economics, Virginia Tech
 Assignment grading and student support.
 
+**Field Supervisor and Enumerator Trainer**
+International Center for Tropical Agriculture (CIAT), 2019 to 2022
+Led roughly three-day trainings for teams of about 12 enumerators on the questionnaire and CSPro data-entry application before each of two household surveys, then supervised fieldwork.
+
 **Workshop Instructor, Introduction to Stata for Economic Analysis**
 Vietnam Institute of Economics
 Designed and delivered a three-session workshop for researchers, including lecture material and applied exercises.
