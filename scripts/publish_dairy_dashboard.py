@@ -1,7 +1,8 @@
 """Copy the dairy heat-stress dashboard into the site as a public, preliminary release.
 
 The canonical file in the dairy project is left untouched. The public copy gets a
-"preliminary results" banner, a noindex tag, and no grant title.
+banner distinguishing the earlier snapshot from the current paper, a noindex tag,
+and no grant title.
 """
 
 import argparse
@@ -12,7 +13,7 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_SOURCE = REPO_ROOT.parent / "projects" / "dairy" / "outputs" / "dashboard" / "us_dairy_climate_dashboard.html"
 DEST = REPO_ROOT / "dashboards" / "dairy-heat-stress" / "index.html"
-PROJECT_URL = "/projects/climate-stress-dairy/"
+PAPER_URL = "/publication/2026-climate-stress-milk-production"
 
 HEAD_EXTRA = """  <meta name="robots" content="noindex">
   <style>
@@ -26,9 +27,9 @@ HEAD_EXTRA = """  <meta name="robots" content="noindex">
 
 BANNER = """<body>
   <div class="release-banner" role="note">
-    <strong>Preliminary results</strong>
-    <span>Snapshot {snapshot}. Estimates may change before the paper is published, so please check with the author before citing.</span>
-    <a href="{project_url}">About this project &rarr;</a>
+    <strong>Earlier results</strong>
+    <span>Snapshot {snapshot}. This dashboard predates the current working paper and uses different methods and estimates. Use the paper for current results.</span>
+    <a href="{paper_url}">Current job market paper &rarr;</a>
   </div>"""
 
 
@@ -56,8 +57,10 @@ def main() -> None:
     html = replace_once(html, r" under the grant <em>[^<]+</em>", "", "grant title")
     html = replace_once(html, r"Offline dashboard of", "Interactive dashboard of", "meta description")
     html = replace_once(html, r"<span>offline review edition</span>", "<span>preliminary web edition</span>", "edition label")
+    html = html.replace("Duong Ta, Mario Ortez, Michael Cary, and Bradford Mills.",
+                        "Duong Ta, Mario Ortez, Bradford Mills, and Michael Cary.")
     html = replace_once(html, r"</head>", HEAD_EXTRA, "</head>")
-    html = replace_once(html, r"<body>", BANNER.format(snapshot=snapshot, project_url=PROJECT_URL), "<body>")
+    html = replace_once(html, r"<body>", BANNER.format(snapshot=snapshot, paper_url=PAPER_URL), "<body>")
 
     DEST.parent.mkdir(parents=True, exist_ok=True)
     DEST.write_text(html, encoding="utf-8", newline="\n")
